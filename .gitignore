@@ -1,0 +1,6 @@
+
+*.xml
+*.iml
+*.pyc
+*.pth
+mlops_env/
